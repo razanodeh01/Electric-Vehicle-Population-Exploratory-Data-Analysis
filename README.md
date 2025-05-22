@@ -60,3 +60,4 @@ Visuals include:
 - [**Razan Abdalrahman**](https://github.com/razanodeh01)
 - [**Hidaya Mustafa**](https://github.com/HidayaMustafa)
 
+> 🔍 *Exploring electric vehicle adoption through data – insights that drive the future of mobility.*
