@@ -56,7 +56,7 @@ Visuals include:
 3. Run all cells to see the preprocessing steps and visualizations.
   
 
-## 👥 Authors
+## 👥 Contributors
 - [**Razan Abdalrahman**](https://github.com/razanodeh01)
 - [**Hidaya Mustafa**](https://github.com/HidayaMustafa)
 
