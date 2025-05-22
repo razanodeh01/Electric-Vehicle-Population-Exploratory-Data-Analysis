@@ -57,6 +57,6 @@ Visuals include:
   
 
 ## 👥 Authors
-- [**Razan Abdelrahman**](https://github.com/razanodeh01)
+- [**Razan Abdalrahman**](https://github.com/razanodeh01)
 - [**Hidaya Mustafa**](https://github.com/HidayaMustafa)
 
